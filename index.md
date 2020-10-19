@@ -116,6 +116,8 @@
 - 원거리 무기
 - 이동 및 점프 조작
 
+
+
 ![옥수수](https://user-images.githubusercontent.com/71679767/96521961-68b0ee00-12ad-11eb-97c8-b2defbc63416.png)
 ![3](https://user-images.githubusercontent.com/71679767/96521970-6cdd0b80-12ad-11eb-9a25-a57e7975c2ff.png)
 
@@ -123,11 +125,15 @@
 - 적에게 옥수수 알을 던지는 패턴 보유
 - 플레이어 캐릭터를 감지함
 
+
+
 ![4](https://user-images.githubusercontent.com/71679767/96522046-926a1500-12ad-11eb-8904-3b72e5eb3d7d.png)
 ![3](https://user-images.githubusercontent.com/71679767/96522049-939b4200-12ad-11eb-86d9-18f1305376cc.png)
 
 몬스터2
 - 좌우로 이동하며 충돌 시 데미지를 줌
+
+
 
 ![KakaoTalk_20191209_154357662](https://user-images.githubusercontent.com/71679767/96522089-a31a8b00-12ad-11eb-980b-97512ffd5be0.jpg)
 
@@ -141,3 +147,14 @@
   - 나뭇잎이 흩날리는 패턴
   
  
+# 파라미터
+
+1. 플레이어 캐릭터
+속성 | 설명
+----- | ----- 
+HP | 체력이며 0이 될 경우 스테이지 실패
+경험치 | 스테이지 공략을 통해 획득 가능
+공격력 | 아이템에 따라 변동되는 수치
+
+
+2. 
