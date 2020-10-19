@@ -75,4 +75,6 @@
 
 # 관련 이미지
 ![image](https://user-images.githubusercontent.com/71679767/96519595-4e284600-12a8-11eb-8fdb-0b394a24cd81.png)
+![다운로드](https://user-images.githubusercontent.com/71679767/96519905-f3dbb500-12a8-11eb-9956-3ebc374a630f.png)
+
 
