@@ -82,12 +82,12 @@
 ![123123](https://user-images.githubusercontent.com/71679767/96520189-83816380-12a9-11eb-8994-56eb7f677e6b.PNG)
 
 # [작품 묘사]
-![](http://course.pcu.ac.kr/pluginfile.php/336928/mod_forum/post/11514/image%20%281%29.png)
-
+![image (1)](https://user-images.githubusercontent.com/71679767/96520585-613c1580-12aa-11eb-9928-27ec3dc8085b.png)
 1. 오브젝트를 중앙에 배치하고 맵의 일부를 어두운 색으로 구현하여
 각 UI의 가시성을 높혔다.
+
 2. 도트 형식의 가벼운 그래픽을 통해 작업 속도 개선, 다양한 몬스터를 기반으로
 여러가지 다채로운 패턴 등을 보여줄 수 있게끔 구현 예정
 
 
-
+# [오브젝트 구성요소]
