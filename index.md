@@ -1,4 +1,4 @@
-# 게임명 : 식물성 바이러스
+# [게임명 : 식물성 바이러스]
 
 1. 컨셉
 2. 관련이미지 and 동영상
@@ -73,13 +73,21 @@
 게임의 플레이타임을 늘릴 수 있는 요소 중 
 하나가 될 수 있도록 추가하게 되었습니다.
 
-# 관련 이미지
+# [관련 이미지]
 ![image](https://user-images.githubusercontent.com/71679767/96519595-4e284600-12a8-11eb-8fdb-0b394a24cd81.png)
 ![다운로드](https://user-images.githubusercontent.com/71679767/96519905-f3dbb500-12a8-11eb-9956-3ebc374a630f.png)
 
 
-# 대표 이미지
+# [대표 이미지]
 ![123123](https://user-images.githubusercontent.com/71679767/96520189-83816380-12a9-11eb-8994-56eb7f677e6b.PNG)
 
-# 작품 묘사
+# [작품 묘사]
+![](http://course.pcu.ac.kr/pluginfile.php/336928/mod_forum/post/11514/image%20%281%29.png)
+
+-오브젝트를 중앙에 배치하고 맵의 일부를 어두운 색으로 구현하여
+각 UI의 가시성을 높혔다.
+-도트 형식의 가벼운 그래픽을 통해 작업 속도 개선, 다양한 몬스터를 기반으로
+여러가지 다채로운 패턴 등을 보여줄 수 있게끔 구현 예정
+
+
 
