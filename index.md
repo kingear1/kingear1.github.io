@@ -110,11 +110,14 @@
 # [게임 오브젝트 분해]
 
 ![주인공](https://user-images.githubusercontent.com/71679767/96521895-45863e80-12ad-11eb-84ab-99c341ddc7c4.png)
+
 플레이어 캐릭터
 - 근거리 무기
 - 원거리 무기
 - 이동 및 점프 조작
 
+![옥수수](https://user-images.githubusercontent.com/71679767/96521961-68b0ee00-12ad-11eb-97c8-b2defbc63416.png)
+![3](https://user-images.githubusercontent.com/71679767/96521970-6cdd0b80-12ad-11eb-9a25-a57e7975c2ff.png)
 
 몬스터1
 - 적에게 옥수수 알을 던지는 패턴 보유
