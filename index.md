@@ -123,9 +123,13 @@
 - 적에게 옥수수 알을 던지는 패턴 보유
 - 플레이어 캐릭터를 감지함
 
+![4](https://user-images.githubusercontent.com/71679767/96522046-926a1500-12ad-11eb-8904-3b72e5eb3d7d.png)
+![3](https://user-images.githubusercontent.com/71679767/96522049-939b4200-12ad-11eb-86d9-18f1305376cc.png)
+
 몬스터2
 - 좌우로 이동하며 충돌 시 데미지를 줌
 
+![KakaoTalk_20191209_154357662](https://user-images.githubusercontent.com/71679767/96522089-a31a8b00-12ad-11eb-980b-97512ffd5be0.jpg)
 
 보스몬스터1
 - 1페이즈
