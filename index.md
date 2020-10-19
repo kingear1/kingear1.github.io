@@ -74,4 +74,5 @@
 하나가 될 수 있도록 추가하게 되었습니다.
 
 # 관련 이미지
+![image](https://user-images.githubusercontent.com/71679767/96519595-4e284600-12a8-11eb-8fdb-0b394a24cd81.png)
 
