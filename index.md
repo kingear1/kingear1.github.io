@@ -101,12 +101,7 @@
 
 
 # [게임 시스템 디자인]
-![구조도](https://user-images.githubusercontent.com/71679767/96521330-fd1a5100-12ab-11eb-8186-8a6cd6dc2dc1.PNG)
-
-1. 게임의 흐름은 단순하게 적용되어 있다.
-2. 스테이지의 클리어에 중점을 둔 단순한 구조
-
-# [게임 오브젝트 분해]
+# [게임 오브젝트 분해/]
 
 ![주인공](https://user-images.githubusercontent.com/71679767/96521895-45863e80-12ad-11eb-84ab-99c341ddc7c4.png)
 
