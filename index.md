@@ -101,7 +101,7 @@
 
 
 # [게임 시스템 디자인]
-# [게임 오브젝트 분해/]
+# [게임 오브젝트 분해/행동]
 
 ![주인공](https://user-images.githubusercontent.com/71679767/96521895-45863e80-12ad-11eb-84ab-99c341ddc7c4.png)
 
