@@ -89,7 +89,7 @@
 
 ![3](https://user-images.githubusercontent.com/71679767/96524838-4bcbe900-12b4-11eb-89a2-229d9cea1b90.PNG)
 
-간략한 스토리 만화
+간략한 시놉시스
 
 ![image (1)](https://user-images.githubusercontent.com/71679767/96520585-613c1580-12aa-11eb-9928-27ec3dc8085b.png)
 
